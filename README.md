@@ -39,7 +39,7 @@
 
 ## 5. <a name="comparison">Aruba Solutions Comparison Table</a>
 
-| | ClearPass | AirWave | Aruba Central | Mobility Conductor |
+| | [ClearPass](https://www.hpe.com/us/en/aruba-clearpass-policy-manager.html) | [AirWave](https://www.hpe.com/psnow/doc/a00056385enw) | [Aruba Central](https://www.hpe.com/us/en/aruba-central.html) | [Mobility Conductor](https://www.hpe.com/psnow/doc/a00059064enw) |
 | :---: | :---: | :---: | :---: | :---: | 
 | What It Is | A technology for network policy management and secure access control. | A tool for on-site monitoring and network infrastructure management (both wired and wireless). | A cloud-based alternative for on-premises monitoring and wired and wireless network infrastructure management. | A centralized controller for managing access points and Mobility Controller clusters for high-traffic wireless networks. |
 | What It Does | | | | |
