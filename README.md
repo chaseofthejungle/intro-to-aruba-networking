@@ -34,3 +34,7 @@
 <hr />
 
 ## 6. <a name="supplemental">Supplemental Resources</a>
+
+* *[HPE Aruba Networking ClearPass Policy Manager Official Webpage](https://www.hpe.com/us/en/aruba-clearpass-policy-manager.html)*
+* *[HPE Aruba Networking Management Software (AirWave) Official Webpage](https://www.hpe.com/psnow/doc/a00056385enw)*
+* *[HPE Aruba Networking Central Official Webpage](https://www.hpe.com/us/en/aruba-central.html)*
