@@ -1,6 +1,6 @@
 # Intro to Aruba Networking Overview Guide
 
-**TODO:** A brief introductory guide to Aruba networking solutions.
+**Description/Overview:** Aruba offers an integrated suite of computer networking solutions, such as ClearPass, AirWave, Aruba Central, and Mobility Conductor. Of these four, *ClearPass* is a tool for network policy management and access control, *AirWave* is a tool for on-site monitoring and network infrastructure management, *Aruba Central* provides a cloud-based alternative to AirWave's functionalities, and *Mobility Conductor* offers a centralized controller for managing access points and Mobility Controller clusters.
 
 #### Table of Contents
 
@@ -15,17 +15,25 @@
 
 ## 1. <a name="clearpass">ClearPass</a>
 
+(TODO)
+
 <hr />
 
 ## 2. <a name="airwave">AirWave</a>
+
+(TODO)
 
 <hr />
 
 ## 3. <a name="central">Aruba Central</a>
 
+(TODO)
+
 <hr />
 
 ## 4. <a name="conductor">Mobility Conductor</a>
+
+(TODO)
 
 <hr />
 
