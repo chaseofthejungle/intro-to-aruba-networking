@@ -8,7 +8,7 @@
 2. [AirWave](#airwave)
 3. [Aruba Central](#central)
 4. [Mobility Conductor](#conductor)
-5. [Comparison Table](#comparison)
+5. [Aruba Solutions Comparison Table](#comparison)
 6. [Supplemental Resources](#supplemental)
 
 <hr />
@@ -29,7 +29,12 @@
 
 <hr />
 
-## 5. <a name="comparison">Comparison Table</a>
+## 5. <a name="comparison">Aruba Solutions Comparison Table</a>
+
+| | ClearPass | AirWave | Aruba Central | Mobility Conductor |
+| :---: | :---: | :---: | :---: | :---: | 
+| What It Is | | | | |
+| What It Does | | | | |
 
 <hr />
 
