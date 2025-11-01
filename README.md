@@ -1,6 +1,6 @@
 # Intro to Aruba Networking Overview Guide
 
-**Description/Overview:** Aruba offers an integrated suite of computer networking solutions, such as ClearPass, AirWave, Aruba Central, and Mobility Conductor. Of these four, *ClearPass* is a tool for network policy management and access control, *AirWave* is a tool for on-site monitoring and network infrastructure management, *Aruba Central* provides a cloud-based alternative to AirWave's functionalities, and *Mobility Conductor* offers a centralized controller for managing access points and Mobility Controller clusters.
+**Description/Overview:** Aruba offers an integrated suite of computer networking solutions, such as ClearPass, AirWave, Aruba Central, and Mobility Conductor. Of these four, *ClearPass* is a technology for network policy management and secure access control, *AirWave* is a tool for on-site monitoring and network infrastructure management (both wired and wireless), *Aruba Central* provides a cloud-based alternative to AirWave's functionalities, and *Mobility Conductor* offers a centralized controller for managing access points and Mobility Controller clusters for high-traffic wireless networks.
 
 #### Table of Contents
 
@@ -41,7 +41,7 @@
 
 | | ClearPass | AirWave | Aruba Central | Mobility Conductor |
 | :---: | :---: | :---: | :---: | :---: | 
-| What It Is | | | | |
+| What It Is | A technology for network policy management and secure access control. | A tool for on-site monitoring and network infrastructure management (both wired and wireless). | A cloud-based alternative for on-premises monitoring and wired and wireless network infrastructure management. | A centralized controller for managing access points and Mobility Controller clusters for high-traffic wireless networks. |
 | What It Does | | | | |
 
 <hr />
