@@ -41,8 +41,9 @@
 
 | | [ClearPass](https://www.hpe.com/us/en/aruba-clearpass-policy-manager.html) | [AirWave](https://www.hpe.com/psnow/doc/a00056385enw) | [Aruba Central](https://www.hpe.com/us/en/aruba-central.html) | [Mobility Conductor](https://www.hpe.com/psnow/doc/a00059064enw) |
 | :---: | :---: | :---: | :---: | :---: | 
-| What It Is | A technology for network policy management and secure access control. | A tool for on-site monitoring and network infrastructure management (both wired and wireless). | A cloud-based alternative for on-premises monitoring and wired and wireless network infrastructure management. | A centralized controller for managing access points and Mobility Controller clusters for high-traffic wireless networks. |
-| What It Does | | | | |
+| What It Is | A technology for network policy management and enforcement. | A tool for on-site monitoring and network infrastructure management (both wired and wireless). | A cloud-based alternative to AirWave. | A centralized controller. |
+| What It Does | Provides secure network access control for devices and users, including authentication, authorization, and user activity tracking. | Device monitoring and managing (for both Aruba products and other vendors). | Provides on-premises monitoring and wired and wireless network infrastructure management. | Reliably manages up to many (e.g., thousands) access points and Mobility Controller clusters for high-traffic wireless networks in a hierarchical and centralized manner (and with high scalability potential). |
+| Integration | Integrates with 140+ partnered IT security solutions. | Integrates with ClearPass for granular-level (e.g., interfaces, apps, users ) network monitoring. | Integrates with many security monitoring and service monitoring platforms. | Supports Wi-Fi 7, WPA3, and other contemporary security standards. |
 
 <hr />
 
